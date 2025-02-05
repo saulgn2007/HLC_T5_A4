@@ -1,0 +1,2 @@
+def potencia(n)
+    res = 
